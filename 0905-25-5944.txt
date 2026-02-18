@@ -1,0 +1,8 @@
+¿Qué aprendí sobre el flujo de trabajo con Git y GitHub?
+Aprendí a crear un repositorio, commits, ramas, merge y push a GitHub. Todas me pareció muy interesante, aunque he de admitir que se me complico un poco porque nunca había utilizado Git, así que algunos comandos me enredaron un poco, pero es cuestión de practica el poder familiarizarme con cada uno y hacerlo de una forma más rápida.
+
+¿Cómo fue trabajar en pareja? ¿Hubo conflictos? ¿Cómo lo resolviste?
+yo no trabaje en pareja así que considero que fue un poco más fácil, sin embargo tube un conflicto al fusionar ramas y lo resolví editando el archivo manualmente y haciendo un commit.
+
+¿Qué ventajas tiene usar Git?
+Ayuda a facilitar la creación de código en parejas, permite tener un historial de los cambios realizados y nos permite recuperar versiones anteriores.
