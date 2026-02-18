@@ -1,4 +1,4 @@
-MI PRIMER PROYECTO 
+MI PRIMER PROYECTO
 
 
 
@@ -12,5 +12,6 @@ Yesmy Darlery Escobar Escobar
 
 
 
-Este cambio se hizo en la rama 1
+Este cambio se hizo desde rama1
+
 
